@@ -85,6 +85,7 @@ async def main():
     #device_address = "EB:C3:F1:BC:24:DD"  # Ví dụ, thay bằng MAC address thực tế
     for i in device_address:
         await fetch_operation_mode(i)
+        print("##############################################\n")
 
 
 if __name__ == "__main__":
