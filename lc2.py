@@ -1,4 +1,6 @@
 import asyncio
+
+from Demos.mmapfile_demo import offset
 from bleak import BleakScanner, BleakClient
 import struct
 
@@ -22,7 +24,7 @@ def decode_location_mode_2(data):
     result = {}
 
     # Giải mã Position (13 bytes đầu tiên)
-    x, y, z, quality_pos = struct.unpack("<iiiB", data[:13])
+    x, y, z, quality_pos = struct.unpack("<iiiB", data[1:14])
     result["Position"] = {
         "X": x / 1000,  # Chuyển từ mm sang m
         "Y": y / 1000,
@@ -32,10 +34,10 @@ def decode_location_mode_2(data):
 
     # Giải mã Distances (phần còn lại)
     distances = []
-    if len(data) > 13:  # Nếu có dữ liệu khoảng cách
-        count = data[13]  # Số lượng khoảng cách
+    if len(data) > 14:  # Nếu có dữ liệu khoảng cách
+        count = data[14]  # Số lượng khoảng cách
         for i in range(count):
-            offset = 14 + i * 7
+            offset = 15 + i * 7
             node_id, distance, quality = struct.unpack("<h i B", data[offset:offset + 7])
             distances.append({
                 "Node ID": node_id,
