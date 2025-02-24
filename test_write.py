@@ -2,6 +2,7 @@ from bleak import BleakClient
 from init import *
 # Địa chỉ MAC của module BLE cần giao tiếp
 DEVICE_ADDRESS = MAC_ADDRESS
+DEVICE_ADDRESS = "C8:70:52:60:9F:38"
 # UUID của characteristic hỗ trợ ghi dữ liệu
 CHARACTERISTIC_WRITE_UUID = OPERATION_MODE
 CHARACTERISTIC_READ_UUID = OPERATION_MODE
@@ -9,7 +10,7 @@ CHARACTERISTIC_READ_UUID = OPERATION_MODE
 
 async def write_and_verify(CHARACTERISTIC_READ_UUID=None):
     # Dữ liệu cần ghi (ví dụ: đổi mode)
-    data_to_write = bytearray([0x03])  # Giá trị 0x03 chỉ là ví dụ
+    data_to_write = bytearray([0x00])  # Giá trị 0x03 chỉ là ví dụ
 
     try:
         # Kết nối đến module
