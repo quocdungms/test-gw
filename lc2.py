@@ -1,8 +1,7 @@
 import asyncio
-
-from Demos.mmapfile_demo import offset
-from bleak import BleakScanner, BleakClient
 import struct
+
+from bleak import BleakScanner, BleakClient
 
 # UUIDs từ tài liệu
 NAME_UUID = "00002a00-0000-1000-8000-00805f9b34fb"  # Label (GAP service)
