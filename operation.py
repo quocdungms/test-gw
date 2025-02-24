@@ -4,7 +4,7 @@ from init import *
 # Địa chỉ MAC hoặc UUID của thiết bị BLE
 DEVICE_ADDRESS = MAC_ADDRESS # Thay thế bằng địa chỉ thiết bị của bạn
 CHARACTERISTIC_UUID = OPERATION_MODE  # UUID của characteristic
-
+CHARACTERISTIC_UUID = LOCATION_DATA_MODE # UUID của characteristic
 async def write_ble_data():
     try:
         # Kết nối đến thiết bị BLE
