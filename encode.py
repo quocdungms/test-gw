@@ -8,5 +8,5 @@ def bits_to_bytearray(bit_string):
     byte_array = bytearray(int(bit_string[i:i + 8], 2) for i in range(0, len(bit_string), 8))
     return byte_array
 # data = '0101100101100000'
-data = '1101100110100000'
+data = '00000000'
 print(bits_to_bytearray(data))
