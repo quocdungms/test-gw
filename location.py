@@ -77,7 +77,7 @@ async def fetch_location_data(address):
 # Quét và k?t n?i t?i thi?t b?
 async def main():
     devices = await BleakScanner.discover()
-    dwm_device = next((d for d in devices if "DWM" in (d.name or "")), None)
+    dwm_device = next((d for d in devices if "DW" in (d.name or "")), None)
 
     if dwm_device:
         print(f"Tìm th?y thi?t b? DWM: {dwm_device.address}")
