@@ -82,7 +82,7 @@ device_address = [ "EB:C3:F1:BC:24:DD", "EB:52:53:F5:D5:90", "E7:E1:0F:DA:2D:82"
 # Hàm chính
 async def main():
     # Chỉ định địa chỉ thiết bị (thay bằng địa chỉ thực tế của bạn)
-    device = "EB:C3:F1:BC:24:DD"  # Ví dụ, thay bằng MAC address thực tế
+    device = "E7:E1:0F:DA:2D:82"  # Ví dụ, thay bằng MAC address thực tế
     await fetch_operation_mode(device)
     # for i in device_address:
     #     await fetch_operation_mode(i)
