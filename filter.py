@@ -4,7 +4,7 @@ import re
 log_file_path = "log.txt"
 
 # File d? luu k?t qu?
-output_file_path = "uuid-filter.txt"
+output_file_path = "module.txt"
 
 # Ð?c n?i dung t? file log
 with open(log_file_path, "r", encoding="utf-8") as file:
