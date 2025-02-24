@@ -2,7 +2,7 @@ import asyncio
 from bleak import BleakClient
 from init import  *
 # Địa chỉ MAC của module DWM1001 (Cần quét trước bằng hcitool hoặc bleak)
-MODULE_MAC_ADDRESS = "EB:C3:F1:BC:24:DD"
+MODULE_MAC_ADDRESS = "EB:52:53:F5:D5:90"
 
 # UUID của dịch vụ và đặc tả cần ghi trên DWM1001
 SERVICE_UUID = "0000feee-0000-1000-8000-00805f9b34fb"  # UUID chính của DWM1001
