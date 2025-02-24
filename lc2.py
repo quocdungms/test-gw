@@ -74,7 +74,7 @@ async def fetch_location_data(address):
 # Quét và kết nối tới thiết bị
 async def main():
     devices = await BleakScanner.discover()
-    dwm_device = next((d for d in devices if "DWD29A" in (d.name or "")), None)
+    dwm_device = next((d for d in devices if "DWD40F" in (d.name or "")), None)
 
     if dwm_device:
         print(f"Tìm thấy thiết bị DWM: {dwm_device.address}")
