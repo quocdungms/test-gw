@@ -10,7 +10,7 @@ LOC_DATA_UUID = "003bbdf2-c634-4b3d-ab56-7ec889b89a37"  # Location Data
 
 FILE_NAME = "location_data.txt"
 
-# Hàm ghi dữ liệu vào file TXT
+# Ghi dữ liệu vào file TXT
 def save_to_txt(device_name, loc_mode, data_size, raw_hex, decoded_data):
     with open(FILE_NAME, "a", encoding="utf-8") as f:
         f.write("=" * 50 + "\n")
@@ -51,38 +51,72 @@ def decode_location_mode_2(data):
 
     return result
 
-# Hàm lấy dữ liệu liên tục mỗi giây
-async def fetch_location_data(client):
-    name_data = await client.read_gatt_char(NAME_UUID)
-    device_name = name_data.decode("utf-8")
-    
-    loc_mode_data = await client.read_gatt_char(LOC_DATA_MODE_UUID)
-    loc_mode = loc_mode_data[0]
-
-    print(f"Đã kết nối: {device_name}, Mode: {loc_mode}")
-
+# Lấy dữ liệu liên tục mỗi 3 giây
+async def fetch_location_data(client, device_name, loc_mode):
     while True:
-        loc_data = await client.read_gatt_char(LOC_DATA_UUID)
-        raw_hex = loc_data.hex()
-        decoded_data = decode_location_mode_2(loc_data)
-
-        print(f"Nhận {len(loc_data)} byte từ {device_name}")
+        if not client.is_connected:
+            print("🔴 Mất kết nối BLE, dừng nhận dữ liệu.")
+            return  # Dừng vòng lặp để kết nối lại
         
-        # Ghi dữ liệu vào file TXT
-        save_to_txt(device_name, loc_mode, len(loc_data), raw_hex, decoded_data)
+        try:
+            loc_data = await client.read_gatt_char(LOC_DATA_UUID)
+            raw_hex = loc_data.hex()
+            decoded_data = decode_location_mode_2(loc_data)
 
-        await asyncio.sleep(1)  # Đợi 1 giây rồi lấy dữ liệu tiếp
+            print(f"Nhận {len(loc_data)} byte từ {device_name}")
 
-# Quét và kết nối tới thiết bị
+            # Ghi dữ liệu vào file TXT
+            save_to_txt(device_name, loc_mode, len(loc_data), raw_hex, decoded_data)
+
+        except Exception as e:
+            print(f"⚠️ Lỗi khi đọc GATT: {e}")
+            return  # Dừng vòng lặp để kết nối lại
+
+        await asyncio.sleep(3)  # Chờ 3 giây trước khi đọc tiếp
+
+# Thử kết nối lại tối đa 3 lần
+async def connect_with_retries(address):
+    for attempt in range(1, 4):  # Tối đa 3 lần thử kết nối
+        try:
+            print(f"🔄 Đang thử kết nối (lần {attempt})...")
+            async with BleakClient(address) as client:
+                if client.is_connected:
+                    print(f"✅ Kết nối thành công: {address}")
+
+                    # Đọc tên thiết bị
+                    name_data = await client.read_gatt_char(NAME_UUID)
+                    device_name = name_data.decode("utf-8")
+
+                    # Đọc Location Data Mode
+                    loc_mode_data = await client.read_gatt_char(LOC_DATA_MODE_UUID)
+                    loc_mode = loc_mode_data[0]
+
+                    print(f"Thiết bị: {device_name}, Mode: {loc_mode}")
+
+                    # Gọi hàm nhận dữ liệu
+                    await fetch_location_data(client, device_name, loc_mode)
+                    return  # Nếu kết nối thành công, không cần thử lại nữa
+        except Exception as e:
+            print(f"❌ Kết nối thất bại (lần {attempt}): {e}")
+
+        await asyncio.sleep(3)  # Chờ 3 giây trước khi thử lại
+
+    print("⛔ Không thể kết nối sau 3 lần thử. Thoát.")
+
+# Quét và tìm thiết bị DWM
 async def main():
-    devices = await BleakScanner.discover()
-    dwm_device = next((d for d in devices if "DWCE07" in (d.name or "")), None)
+    while True:
+        print("🔍 Đang quét thiết bị BLE...")
+        devices = await BleakScanner.discover()
+        dwm_device = next((d for d in devices if "DWCE07" in (d.name or "")), None)
 
-    if dwm_device:
-        async with BleakClient(dwm_device.address) as client:
-            await fetch_location_data(client)
-    else:
-        print("Không tìm thấy thiết bị DWM nào")
+        if dwm_device:
+            print(f"✅ Tìm thấy thiết bị: {dwm_device.address}")
+            await connect_with_retries(dwm_device.address)
+        else:
+            print("❌ Không tìm thấy thiết bị DWM nào. Thử lại sau 3 giây.")
+
+        await asyncio.sleep(3)  # Chờ 3 giây trước khi quét lại
 
 if __name__ == "__main__":
     asyncio.run(main())
