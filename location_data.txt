@@ -1,0 +1,432 @@
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02ca020000f502000003fcffff2c040fd442060000640ec6bb060000649ad2010700006411c5d706000064
+Dữ liệu giải mã: {'Position': {'X': 0.714, 'Y': 0.757, 'Z': -1.021, 'Quality Factor': 44}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.602, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.723, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.793, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.751, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02ca020000f502000003fcffff2c040fd442060000640ec6bb060000649ad2010700006411c5d706000064
+Dữ liệu giải mã: {'Position': {'X': 0.714, 'Y': 0.757, 'Z': -1.021, 'Quality Factor': 44}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.602, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.723, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.793, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.751, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02ca020000f502000003fcffff2c040fd442060000640ec6bb060000649ad2010700006411c5d706000064
+Dữ liệu giải mã: {'Position': {'X': 0.714, 'Y': 0.757, 'Z': -1.021, 'Quality Factor': 44}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.602, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.723, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.793, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.751, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02ca020000f502000003fcffff2c040fd442060000640ec6bb060000649ad2010700006411c5d706000064
+Dữ liệu giải mã: {'Position': {'X': 0.714, 'Y': 0.757, 'Z': -1.021, 'Quality Factor': 44}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.602, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.723, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.793, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.751, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02cb0200003803000000feffff22040fd44b060000640ec62d080000649ad20b0700006411c58706000064
+Dữ liệu giải mã: {'Position': {'X': 0.715, 'Y': 0.824, 'Z': -0.512, 'Quality Factor': 34}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.611, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 2.093, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.803, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.671, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02cb0200003803000000feffff22040fd44b060000640ec62d080000649ad20b0700006411c58706000064
+Dữ liệu giải mã: {'Position': {'X': 0.715, 'Y': 0.824, 'Z': -0.512, 'Quality Factor': 34}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.611, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 2.093, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.803, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.671, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02cb0200003803000000feffff22040fd44b060000640ec62d080000649ad20b0700006411c58706000064
+Dữ liệu giải mã: {'Position': {'X': 0.715, 'Y': 0.824, 'Z': -0.512, 'Quality Factor': 34}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.611, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 2.093, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.803, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.671, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02cb0200003803000000feffff22040fd44b060000640ec62d080000649ad20b0700006411c58706000064
+Dữ liệu giải mã: {'Position': {'X': 0.715, 'Y': 0.824, 'Z': -0.512, 'Quality Factor': 34}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.611, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 2.093, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.803, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.671, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02cb0200003803000000feffff22040fd44b060000640ec62d080000649ad20b0700006411c58706000064
+Dữ liệu giải mã: {'Position': {'X': 0.715, 'Y': 0.824, 'Z': -0.512, 'Quality Factor': 34}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.611, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 2.093, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.803, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.671, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02cb0200003803000000feffff22040fd44b060000640ec62d080000649ad20b0700006411c58706000064
+Dữ liệu giải mã: {'Position': {'X': 0.715, 'Y': 0.824, 'Z': -0.512, 'Quality Factor': 34}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.611, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 2.093, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.803, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.671, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02cb0200003803000000feffff22040fd44b060000640ec62d080000649ad20b0700006411c58706000064
+Dữ liệu giải mã: {'Position': {'X': 0.715, 'Y': 0.824, 'Z': -0.512, 'Quality Factor': 34}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.611, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 2.093, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.803, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.671, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02cb0200003803000000feffff22040fd44b060000640ec62d080000649ad20b0700006411c58706000064
+Dữ liệu giải mã: {'Position': {'X': 0.715, 'Y': 0.824, 'Z': -0.512, 'Quality Factor': 34}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.611, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 2.093, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.803, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.671, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02cb0200003803000000feffff22040fd44b060000640ec62d080000649ad20b0700006411c58706000064
+Dữ liệu giải mã: {'Position': {'X': 0.715, 'Y': 0.824, 'Z': -0.512, 'Quality Factor': 34}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.611, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 2.093, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.803, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.671, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02df0200002a03000050fdffff2d040fd450060000640ec6dc060000649ad2fd0600006411c50b07000064
+Dữ liệu giải mã: {'Position': {'X': 0.735, 'Y': 0.81, 'Z': -0.688, 'Quality Factor': 45}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.616, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.756, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.789, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.803, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02df0200002a03000050fdffff2d040fd450060000640ec6dc060000649ad2fd0600006411c50b07000064
+Dữ liệu giải mã: {'Position': {'X': 0.735, 'Y': 0.81, 'Z': -0.688, 'Quality Factor': 45}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.616, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.756, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.789, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.803, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02df0200002a03000050fdffff2d040fd450060000640ec6dc060000649ad2fd0600006411c50b07000064
+Dữ liệu giải mã: {'Position': {'X': 0.735, 'Y': 0.81, 'Z': -0.688, 'Quality Factor': 45}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.616, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.756, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.789, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.803, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02df0200002a03000050fdffff2d040fd450060000640ec6dc060000649ad2fd0600006411c50b07000064
+Dữ liệu giải mã: {'Position': {'X': 0.735, 'Y': 0.81, 'Z': -0.688, 'Quality Factor': 45}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.616, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.756, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.789, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.803, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02df0200002a03000050fdffff2d040fd450060000640ec6dc060000649ad2fd0600006411c50b07000064
+Dữ liệu giải mã: {'Position': {'X': 0.735, 'Y': 0.81, 'Z': -0.688, 'Quality Factor': 45}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.616, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.756, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.789, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.803, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02df0200002a03000050fdffff2d040fd450060000640ec6dc060000649ad2fd0600006411c50b07000064
+Dữ liệu giải mã: {'Position': {'X': 0.735, 'Y': 0.81, 'Z': -0.688, 'Quality Factor': 45}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.616, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.756, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.789, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.803, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02df0200002a03000050fdffff2d040fd450060000640ec6dc060000649ad2fd0600006411c50b07000064
+Dữ liệu giải mã: {'Position': {'X': 0.735, 'Y': 0.81, 'Z': -0.688, 'Quality Factor': 45}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.616, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.756, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.789, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.803, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02df0200002a03000050fdffff2d040fd450060000640ec6dc060000649ad2fd0600006411c50b07000064
+Dữ liệu giải mã: {'Position': {'X': 0.735, 'Y': 0.81, 'Z': -0.688, 'Quality Factor': 45}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.616, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.756, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.789, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.803, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02df0200002a03000050fdffff2d040fd450060000640ec6dc060000649ad2fd0600006411c50b07000064
+Dữ liệu giải mã: {'Position': {'X': 0.735, 'Y': 0.81, 'Z': -0.688, 'Quality Factor': 45}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.616, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.756, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.789, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.803, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02d7020000db020000b0fcffff33040fd42f060000640ec6c6070000649ad2010700006411c5ef06000064
+Dữ liệu giải mã: {'Position': {'X': 0.727, 'Y': 0.731, 'Z': -0.848, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.583, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.793, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.775, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02d7020000db020000b0fcffff33040fd42f060000640ec6c6070000649ad2010700006411c5ef06000064
+Dữ liệu giải mã: {'Position': {'X': 0.727, 'Y': 0.731, 'Z': -0.848, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.583, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.793, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.775, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02d7020000db020000b0fcffff33040fd42f060000640ec6c6070000649ad2010700006411c5ef06000064
+Dữ liệu giải mã: {'Position': {'X': 0.727, 'Y': 0.731, 'Z': -0.848, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.583, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.793, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.775, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02d7020000db020000b0fcffff33040fd42f060000640ec6c6070000649ad2010700006411c5ef06000064
+Dữ liệu giải mã: {'Position': {'X': 0.727, 'Y': 0.731, 'Z': -0.848, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.583, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.793, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.775, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02d7020000db020000b0fcffff33040fd42f060000640ec6c6070000649ad2010700006411c5ef06000064
+Dữ liệu giải mã: {'Position': {'X': 0.727, 'Y': 0.731, 'Z': -0.848, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': -11249, 'Distance': 1.583, 'Quality Factor': 100}, {'Node ID': -14834, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': -11622, 'Distance': 1.793, 'Quality Factor': 100}, {'Node ID': -15087, 'Distance': 1.775, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02bf020000010300007afdffff26040fd438060000649ad2f3060000640ec6810500006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.703, 'Y': 0.769, 'Z': -0.646, 'Quality Factor': 38}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.779, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.409, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02bf020000010300007afdffff26040fd438060000649ad2f3060000640ec6810500006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.703, 'Y': 0.769, 'Z': -0.646, 'Quality Factor': 38}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.779, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.409, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02bf020000010300007afdffff26040fd438060000649ad2f3060000640ec6810500006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.703, 'Y': 0.769, 'Z': -0.646, 'Quality Factor': 38}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.779, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.409, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02bf020000010300007afdffff26040fd438060000649ad2f3060000640ec6810500006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.703, 'Y': 0.769, 'Z': -0.646, 'Quality Factor': 38}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.779, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.409, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02bf020000010300007afdffff26040fd438060000649ad2f3060000640ec6810500006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.703, 'Y': 0.769, 'Z': -0.646, 'Quality Factor': 38}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.779, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.409, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02bf020000010300007afdffff26040fd438060000649ad2f3060000640ec6810500006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.703, 'Y': 0.769, 'Z': -0.646, 'Quality Factor': 38}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.779, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.409, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02bf020000010300007afdffff26040fd438060000649ad2f3060000640ec6810500006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.703, 'Y': 0.769, 'Z': -0.646, 'Quality Factor': 38}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.779, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.409, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02bf020000010300007afdffff26040fd438060000649ad2f3060000640ec6810500006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.703, 'Y': 0.769, 'Z': -0.646, 'Quality Factor': 38}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.779, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.409, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02bf020000010300007afdffff26040fd438060000649ad2f3060000640ec6810500006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.703, 'Y': 0.769, 'Z': -0.646, 'Quality Factor': 38}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.779, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.409, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02e3020000e2020000f3fcffff2e040fd438060000640ec643070000649ad2750600006411c5e106000064
+Dữ liệu giải mã: {'Position': {'X': 0.739, 'Y': 0.738, 'Z': -0.781, 'Quality Factor': 46}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.592, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.859, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.653, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.761, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02f0020000ae020000fefeffff33040fd454060000649ad2c9060000640ec6c60700006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.752, 'Y': 0.686, 'Z': -0.258, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.62, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.737, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02f0020000ae020000fefeffff33040fd454060000649ad2c9060000640ec6c60700006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.752, 'Y': 0.686, 'Z': -0.258, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.62, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.737, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02f0020000ae020000fefeffff33040fd454060000649ad2c9060000640ec6c60700006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.752, 'Y': 0.686, 'Z': -0.258, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.62, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.737, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02f0020000ae020000fefeffff33040fd454060000649ad2c9060000640ec6c60700006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.752, 'Y': 0.686, 'Z': -0.258, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.62, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.737, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02f0020000ae020000fefeffff33040fd454060000649ad2c9060000640ec6c60700006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.752, 'Y': 0.686, 'Z': -0.258, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.62, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.737, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02f0020000ae020000fefeffff33040fd454060000649ad2c9060000640ec6c60700006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.752, 'Y': 0.686, 'Z': -0.258, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.62, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.737, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02f0020000ae020000fefeffff33040fd454060000649ad2c9060000640ec6c60700006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.752, 'Y': 0.686, 'Z': -0.258, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.62, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.737, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+
+==================================================
+Tên thiết bị: DWCE07
+Location Mode: 2
+Số byte nhận: 43
+Dữ liệu thô (hex): 02f0020000ae020000fefeffff33040fd454060000649ad2c9060000640ec6c60700006411c5f306000064
+Dữ liệu giải mã: {'Position': {'X': 0.752, 'Y': 0.686, 'Z': -0.258, 'Quality Factor': 51}, 'Count': 4, 'Distances': [{'Node ID': 54287, 'Distance': 1.62, 'Quality Factor': 100}, {'Node ID': 53914, 'Distance': 1.737, 'Quality Factor': 100}, {'Node ID': 50702, 'Distance': 1.99, 'Quality Factor': 100}, {'Node ID': 50449, 'Distance': 1.779, 'Quality Factor': 100}]}
+==================================================
+

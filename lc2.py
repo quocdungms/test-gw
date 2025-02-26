@@ -31,10 +31,12 @@ def decode_location_mode_2(data):
     # Giải mã Distances (phần còn lại)
     distances = []
     if len(data) > 14:  # Nếu có dữ liệu khoảng cách
+
         count = data[14]  # Số lượng khoảng cách
+        result["count: "] = count
         for i in range(count):
             offset = 15 + i * 7
-            node_id, distance, quality = struct.unpack("<h i B", data[offset:offset + 7])
+            node_id, distance, quality = struct.unpack("<H i B", data[offset:offset + 7])
             distances.append({
                 "Node ID": node_id,
                 "Distance": distance / 1000,  # Chuyển từ mm sang m
@@ -77,7 +79,7 @@ async def main():
     devices = await BleakScanner.discover()
 
     # dwm_device = next((d for d in devices if "DWD40F" in (d.name or "")), None)
-    dwm_device = next((d for d in devices if "DW" in (d.name or "")), None)
+    dwm_device = next((d for d in devices if "DWCE07" in (d.name or "")), None)
 
     if dwm_device:
         print(f"Tìm thấy thiết bị DWM: {dwm_device.address}")
